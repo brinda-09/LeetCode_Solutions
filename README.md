@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0185-department-top-three-salaries) |
+| [0511-game-play-analysis-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0620-not-boring-movies) |
 ## Sliding Window
