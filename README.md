@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
