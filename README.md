@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1193-monthly-transactions-i) |
+| [1280-students-and-examinations](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1280-students-and-examinations) |
 ## Sliding Window
 |  |
 | ------- |
