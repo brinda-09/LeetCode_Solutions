@@ -1,0 +1,1 @@
+select query_name,round(AVG(CAST(rating AS DECIMAL) / position),2) as quality, round(Sum(CASE when rating<3 then 1 else 0 end)*100/Count(*),2) as poor_query_percentage from queries group by query_name;
