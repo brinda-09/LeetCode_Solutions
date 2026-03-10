@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Greedy
 |  |
