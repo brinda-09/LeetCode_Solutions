@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0728-self-dividing-numbers](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
