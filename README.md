@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1517-find-users-with-valid-e-mails](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 ## Sliding Window
 |  |
 | ------- |
