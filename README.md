@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1382-balance-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
