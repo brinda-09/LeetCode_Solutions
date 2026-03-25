@@ -2,7 +2,7 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int rows=grid.length;
         int cols=grid[0].length;
-        Queue<int[]> q=new ArrayDeque<>();
+        Queue<int[]> q=new LinkedList<>();
         int fresh=0;
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
