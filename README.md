@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0728-self-dividing-numbers](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0728-self-dividing-numbers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0994-rotting-oranges](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
