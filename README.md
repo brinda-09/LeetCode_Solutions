@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [1143-longest-common-subsequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
