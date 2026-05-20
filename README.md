@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2540-minimum-common-value](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3719-longest-balanced-subarray-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3719-longest-balanced-subarray-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
