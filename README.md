@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
