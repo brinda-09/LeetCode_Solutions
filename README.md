@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
