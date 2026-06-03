@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1382-balance-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
