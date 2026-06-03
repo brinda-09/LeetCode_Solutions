@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1143-longest-common-subsequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
