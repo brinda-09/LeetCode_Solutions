@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1143-longest-common-subsequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Monotonic Queue
 |  |
