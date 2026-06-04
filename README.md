@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
@@ -342,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
