@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [1143-longest-common-subsequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
