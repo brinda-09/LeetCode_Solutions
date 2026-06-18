@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0728-self-dividing-numbers](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2485-find-the-pivot-integer](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
