@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1701-average-waiting-time](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1701-average-waiting-time) |
+| [1732-find-the-highest-altitude](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3719-longest-balanced-subarray-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
