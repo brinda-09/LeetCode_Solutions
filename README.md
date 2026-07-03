@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0700-search-in-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
