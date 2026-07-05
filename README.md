@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0994-rotting-oranges](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Combinatorics
 |  |
 | ------- |
@@ -381,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0155-min-stack) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
