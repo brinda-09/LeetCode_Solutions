@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0728-self-dividing-numbers](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2485-find-the-pivot-integer](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -392,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
