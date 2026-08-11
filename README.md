@@ -427,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
