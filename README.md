@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Combinatorics
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brinda-09/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
