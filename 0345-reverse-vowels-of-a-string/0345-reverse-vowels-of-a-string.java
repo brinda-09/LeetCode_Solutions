@@ -5,18 +5,19 @@ class Solution {
         int j=s.length()-1;
         String vow="aeiouAEIOU";
         while(i<j){
-            while(i<j&&vow.indexOf(sb.charAt(i))==-1){
-                i++;
-            }
-            while(i<j&&vow.indexOf(sb.charAt(j))==-1){
-                j--;
-            }
-            char temp=sb.charAt(i);
-            sb.setCharAt(i,sb.charAt(j));
-            sb.setCharAt(j,temp);
+          while(i<j&&vow.indexOf(sb.charAt(i))==-1){
             i++;
+          }
+          while(i<j&&vow.indexOf(s.charAt(j))==-1){
             j--;
+          }
+          char temp=s.charAt(i);
+          sb.setCharAt(i,s.charAt(j));
+          sb.setCharAt(j,temp);
+          i++;
+          j--;
+
         }
-        return new String(sb);
+        return sb.toString();
     }
 }
