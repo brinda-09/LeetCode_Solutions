@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0067-add-binary) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/brinda-09/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
